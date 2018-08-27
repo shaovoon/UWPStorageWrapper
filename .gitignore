@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+.vs/
+
+CppStorageApp/Generated Files/
+CSharpStorageApp/Generated Files/
+CSharpStorageApp/obj/
